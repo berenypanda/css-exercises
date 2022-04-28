@@ -1,0 +1,13 @@
+.container p {
+    background-color: #ffee00;
+    color: #ff0000;
+    font-size: 20px;
+    text-align: center;
+}
+
+.container.text {
+    background-color: #ffee00;
+    color: #ff0000;
+    font-size: 20px;
+    text-align: center;
+}
